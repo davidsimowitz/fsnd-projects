@@ -1,4 +1,4 @@
-FSND - Responsive Website
+Responsive Website
 ==================================================
 
 Udacity - Full Stack Web Developer Nanodegree
@@ -21,13 +21,13 @@ Usage
 * Run the following commands to clone the complete web site.
 
 ```bash
-$ git clone https://github.com/davidsimowitz/fsnd-projects.git
+$ git clone https://github.com/davidsimowitz/udacity-projects.git
 ```
   + Above command is optional.
   + Alternatively you may download the files into the directory.
   
 ```bash
-$ cd fsnd-projects/responsive-website
+$ cd udacity-projects/responsive-website
 ```
   + Verify the following files/folders are present before continuing:
     * css
